@@ -1,0 +1,9 @@
+.env
+logs/
+data/criteria.json
+__pycache__/
+*.pyc
+.DS_Store
+.cursor/
+.vscode/
+.idea/
