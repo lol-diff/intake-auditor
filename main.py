@@ -9,4 +9,4 @@ app.include_router(auditor_router, prefix="/audit")
 
 @app.get("/")
 def health_check():
-    return {"status": "online"}
+    return {"status": "v1.0.0 live"}
